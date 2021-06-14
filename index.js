@@ -1,4 +1,7 @@
-// let hoTen = 'Khải';
+let hoTen = 'Khải';
+console.log(hoTen);
+
+
 
 
 const store = () => {
